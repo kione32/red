@@ -2,14 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://kione32.github.io/red/about.html</loc>
-    <lastmod>2022-12-21T08:09:22.976Z</lastmod>
+    <lastmod>2022-12-21T08:14:01.102Z</lastmod>
   </url>
   <url>
     <loc>https://kione32.github.io/red/index.html</loc>
-    <lastmod>2022-12-21T08:09:23.463Z</lastmod>
+    <lastmod>2022-12-21T08:14:01.516Z</lastmod>
   </url>
   <url>
-    <loc>https://kione32.github.io/red/posts/2022-12-21-test.html</loc>
-    <lastmod>2022-12-21T08:09:23.853Z</lastmod>
+    <loc>https://kione32.github.io/red/posts/BDA/2022-12-21-test.html</loc>
+    <lastmod>2022-12-21T08:14:01.895Z</lastmod>
+  </url>
+  <url>
+    <loc>https://kione32.github.io/red/posts/DL/Untitled.html</loc>
+    <lastmod>2022-12-21T08:14:02.254Z</lastmod>
   </url>
 </urlset>
